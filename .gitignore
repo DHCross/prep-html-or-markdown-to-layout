@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node / JavaScript (in case you add tooling later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
